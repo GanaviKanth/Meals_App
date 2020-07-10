@@ -3,3 +3,4 @@ The app shows different cuisine and dishes for each cuisine. On selecting it we 
 Filters- has certain food categories like vegan, vegetarian, lactose_free, gluten_free.
 Meals - shows the different cuisines.
 On choosing the dish we get to see the ingredients and procedure.
+The favorites tab in the bottom shows the dishes selected as favorite.
